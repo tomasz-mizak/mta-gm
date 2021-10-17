@@ -1,0 +1,363 @@
+<meta>
+  <info author="Mizy99" version="1.0.0" name="Freeroam" description="Simple gamemode for Multi Theft Auto server." type="gamemode"/>
+  <file src="texture.fx"/>
+  <file src="img/heads/Skinid268.jpg"/>
+  <file src="img/heads/Skinid269.jpg"/>
+  <file src="img/heads/Skinid270.jpg"/>
+  <file src="img/heads/Skinid271.jpg"/>
+  <file src="img/heads/Skinid290.jpg"/>
+  <file src="img/heads/Skinid291.jpg"/>
+  <file src="img/heads/Skinid292.jpg"/>
+  <file src="img/heads/Skinid293.jpg"/>
+  <file src="img/heads/Skinid294.jpg"/>
+  <file src="img/heads/Skinid295.jpg"/>
+  <file src="img/heads/Skinid296.jpg"/>
+  <file src="img/heads/Skinid297.jpg"/>
+  <file src="img/heads/Skinid298.jpg"/>
+  <file src="img/heads/Skinid299.jpg"/>
+  <file src="img/heads/Skinid301.jpg"/>
+  <file src="img/heads/Skinid302.jpg"/>
+  <file src="img/heads/Skinid303.jpg"/>
+  <file src="img/heads/Skinid304.jpg"/>
+  <file src="img/heads/Skinid305.jpg"/>
+  <file src="img/heads/Skinid306.jpg"/>
+  <file src="img/heads/Skinid307.jpg"/>
+  <file src="img/heads/Skinid308.jpg"/>
+  <file src="img/heads/Skinid312.jpg"/>
+  <file src="img/heads/Skinid0.jpg"/>
+  <file src="img/heads/Skinid1.jpg"/>
+  <file src="img/heads/Skinid10.jpg"/>
+  <file src="img/heads/Skinid100.jpg"/>
+  <file src="img/heads/Skinid101.jpg"/>
+  <file src="img/heads/Skinid102.jpg"/>
+  <file src="img/heads/Skinid103.jpg"/>
+  <file src="img/heads/Skinid104.jpg"/>
+  <file src="img/heads/Skinid105.jpg"/>
+  <file src="img/heads/Skinid106.jpg"/>
+  <file src="img/heads/Skinid107.jpg"/>
+  <file src="img/heads/Skinid108.jpg"/>
+  <file src="img/heads/Skinid109.jpg"/>
+  <file src="img/heads/Skinid11.jpg"/>
+  <file src="img/heads/Skinid110.jpg"/>
+  <file src="img/heads/Skinid111.jpg"/>
+  <file src="img/heads/Skinid112.jpg"/>
+  <file src="img/heads/Skinid113.jpg"/>
+  <file src="img/heads/Skinid114.jpg"/>
+  <file src="img/heads/Skinid115.jpg"/>
+  <file src="img/heads/Skinid116.jpg"/>
+  <file src="img/heads/Skinid117.jpg"/>
+  <file src="img/heads/Skinid118.jpg"/>
+  <file src="img/heads/Skinid12.jpg"/>
+  <file src="img/heads/Skinid120.jpg"/>
+  <file src="img/heads/Skinid121.jpg"/>
+  <file src="img/heads/Skinid122.jpg"/>
+  <file src="img/heads/Skinid123.jpg"/>
+  <file src="img/heads/Skinid124.jpg"/>
+  <file src="img/heads/Skinid125.jpg"/>
+  <file src="img/heads/Skinid126.jpg"/>
+  <file src="img/heads/Skinid127.jpg"/>
+  <file src="img/heads/Skinid128.jpg"/>
+  <file src="img/heads/Skinid129.jpg"/>
+  <file src="img/heads/Skinid13.jpg"/>
+  <file src="img/heads/Skinid130.jpg"/>
+  <file src="img/heads/Skinid131.jpg"/>
+  <file src="img/heads/Skinid132.jpg"/>
+  <file src="img/heads/Skinid133.jpg"/>
+  <file src="img/heads/Skinid134.jpg"/>
+  <file src="img/heads/Skinid135.jpg"/>
+  <file src="img/heads/Skinid136.jpg"/>
+  <file src="img/heads/Skinid137.jpg"/>
+  <file src="img/heads/Skinid138.jpg"/>
+  <file src="img/heads/Skinid139.jpg"/>
+  <file src="img/heads/Skinid14.jpg"/>
+  <file src="img/heads/Skinid140.jpg"/>
+  <file src="img/heads/Skinid141.jpg"/>
+  <file src="img/heads/Skinid142.jpg"/>
+  <file src="img/heads/Skinid143.jpg"/>
+  <file src="img/heads/Skinid144.jpg"/>
+  <file src="img/heads/Skinid145.jpg"/>
+  <file src="img/heads/Skinid146.jpg"/>
+  <file src="img/heads/Skinid147.jpg"/>
+  <file src="img/heads/Skinid148.jpg"/>
+  <file src="img/heads/Skinid15.jpg"/>
+  <file src="img/heads/Skinid150.jpg"/>
+  <file src="img/heads/Skinid151.jpg"/>
+  <file src="img/heads/Skinid152.jpg"/>
+  <file src="img/heads/Skinid153.jpg"/>
+  <file src="img/heads/Skinid154.jpg"/>
+  <file src="img/heads/Skinid155.jpg"/>
+  <file src="img/heads/Skinid156.jpg"/>
+  <file src="img/heads/Skinid157.jpg"/>
+  <file src="img/heads/Skinid158.jpg"/>
+  <file src="img/heads/Skinid159.jpg"/>
+  <file src="img/heads/Skinid16.jpg"/>
+  <file src="img/heads/Skinid160.jpg"/>
+  <file src="img/heads/Skinid161.jpg"/>
+  <file src="img/heads/Skinid162.jpg"/>
+  <file src="img/heads/Skinid163.jpg"/>
+  <file src="img/heads/Skinid164.jpg"/>
+  <file src="img/heads/Skinid165.jpg"/>
+  <file src="img/heads/Skinid166.jpg"/>
+  <file src="img/heads/Skinid167.jpg"/>
+  <file src="img/heads/Skinid168.jpg"/>
+  <file src="img/heads/Skinid169.jpg"/>
+  <file src="img/heads/Skinid17.jpg"/>
+  <file src="img/heads/Skinid170.jpg"/>
+  <file src="img/heads/Skinid171.jpg"/>
+  <file src="img/heads/Skinid172.jpg"/>
+  <file src="img/heads/Skinid173.jpg"/>
+  <file src="img/heads/Skinid174.jpg"/>
+  <file src="img/heads/Skinid175.jpg"/>
+  <file src="img/heads/Skinid176.jpg"/>
+  <file src="img/heads/Skinid177.jpg"/>
+  <file src="img/heads/Skinid178.jpg"/>
+  <file src="img/heads/Skinid179.jpg"/>
+  <file src="img/heads/Skinid18.jpg"/>
+  <file src="img/heads/Skinid180.jpg"/>
+  <file src="img/heads/Skinid181.jpg"/>
+  <file src="img/heads/Skinid182.jpg"/>
+  <file src="img/heads/Skinid183.jpg"/>
+  <file src="img/heads/Skinid184.jpg"/>
+  <file src="img/heads/Skinid185.jpg"/>
+  <file src="img/heads/Skinid186.jpg"/>
+  <file src="img/heads/Skinid187.jpg"/>
+  <file src="img/heads/Skinid188.jpg"/>
+  <file src="img/heads/Skinid189.jpg"/>
+  <file src="img/heads/Skinid19.jpg"/>
+  <file src="img/heads/Skinid190.jpg"/>
+  <file src="img/heads/Skinid191.jpg"/>
+  <file src="img/heads/Skinid192.jpg"/>
+  <file src="img/heads/Skinid193.jpg"/>
+  <file src="img/heads/Skinid194.jpg"/>
+  <file src="img/heads/Skinid195.jpg"/>
+  <file src="img/heads/Skinid196.jpg"/>
+  <file src="img/heads/Skinid197.jpg"/>
+  <file src="img/heads/Skinid198.jpg"/>
+  <file src="img/heads/Skinid199.jpg"/>
+  <file src="img/heads/Skinid2.jpg"/>
+  <file src="img/heads/Skinid20.jpg"/>
+  <file src="img/heads/Skinid200.jpg"/>
+  <file src="img/heads/Skinid201.jpg"/>
+  <file src="img/heads/Skinid202.jpg"/>
+  <file src="img/heads/Skinid203.jpg"/>
+  <file src="img/heads/Skinid204.jpg"/>
+  <file src="img/heads/Skinid205.jpg"/>
+  <file src="img/heads/Skinid206.jpg"/>
+  <file src="img/heads/Skinid207.jpg"/>
+  <file src="img/heads/Skinid209.jpg"/>
+  <file src="img/heads/Skinid21.jpg"/>
+  <file src="img/heads/Skinid210.jpg"/>
+  <file src="img/heads/Skinid211.jpg"/>
+  <file src="img/heads/Skinid212.jpg"/>
+  <file src="img/heads/Skinid213.jpg"/>
+  <file src="img/heads/Skinid214.jpg"/>
+  <file src="img/heads/Skinid215.jpg"/>
+  <file src="img/heads/Skinid216.jpg"/>
+  <file src="img/heads/Skinid217.jpg"/>
+  <file src="img/heads/Skinid218.jpg"/>
+  <file src="img/heads/Skinid219.jpg"/>
+  <file src="img/heads/Skinid22.jpg"/>
+  <file src="img/heads/Skinid220.jpg"/>
+  <file src="img/heads/Skinid221.jpg"/>
+  <file src="img/heads/Skinid222.jpg"/>
+  <file src="img/heads/Skinid223.jpg"/>
+  <file src="img/heads/Skinid224.jpg"/>
+  <file src="img/heads/Skinid225.jpg"/>
+  <file src="img/heads/Skinid226.jpg"/>
+  <file src="img/heads/Skinid227.jpg"/>
+  <file src="img/heads/Skinid228.jpg"/>
+  <file src="img/heads/Skinid229.jpg"/>
+  <file src="img/heads/Skinid23.jpg"/>
+  <file src="img/heads/Skinid230.jpg"/>
+  <file src="img/heads/Skinid231.jpg"/>
+  <file src="img/heads/Skinid232.jpg"/>
+  <file src="img/heads/Skinid233.jpg"/>
+  <file src="img/heads/Skinid234.jpg"/>
+  <file src="img/heads/Skinid235.jpg"/>
+  <file src="img/heads/Skinid236.jpg"/>
+  <file src="img/heads/Skinid237.jpg"/>
+  <file src="img/heads/Skinid238.jpg"/>
+  <file src="img/heads/Skinid239.jpg"/>
+  <file src="img/heads/Skinid24.jpg"/>
+  <file src="img/heads/Skinid240.jpg"/>
+  <file src="img/heads/Skinid241.jpg"/>
+  <file src="img/heads/Skinid242.jpg"/>
+  <file src="img/heads/Skinid243.jpg"/>
+  <file src="img/heads/Skinid244.jpg"/>
+  <file src="img/heads/Skinid245.jpg"/>
+  <file src="img/heads/Skinid246.jpg"/>
+  <file src="img/heads/Skinid247.jpg"/>
+  <file src="img/heads/Skinid248.jpg"/>
+  <file src="img/heads/Skinid249.jpg"/>
+  <file src="img/heads/Skinid25.jpg"/>
+  <file src="img/heads/Skinid250.jpg"/>
+  <file src="img/heads/Skinid251.jpg"/>
+  <file src="img/heads/Skinid252.jpg"/>
+  <file src="img/heads/Skinid253.jpg"/>
+  <file src="img/heads/Skinid254.jpg"/>
+  <file src="img/heads/Skinid255.jpg"/>
+  <file src="img/heads/Skinid256.jpg"/>
+  <file src="img/heads/Skinid257.jpg"/>
+  <file src="img/heads/Skinid258.jpg"/>
+  <file src="img/heads/Skinid259.jpg"/>
+  <file src="img/heads/Skinid26.jpg"/>
+  <file src="img/heads/Skinid260.jpg"/>
+  <file src="img/heads/Skinid261.jpg"/>
+  <file src="img/heads/Skinid262.jpg"/>
+  <file src="img/heads/Skinid263.jpg"/>
+  <file src="img/heads/Skinid264.jpg"/>
+  <file src="img/heads/Skinid265.jpg"/>
+  <file src="img/heads/Skinid266.png"/>
+  <file src="img/heads/Skinid267.jpg"/>
+  <file src="img/heads/Skinid27.jpg"/>
+  <file src="img/heads/Skinid272.jpg"/>
+  <file src="img/heads/Skinid274.jpg"/>
+  <file src="img/heads/Skinid275.jpg"/>
+  <file src="img/heads/Skinid276.jpg"/>
+  <file src="img/heads/Skinid277.jpg"/>
+  <file src="img/heads/Skinid278.jpg"/>
+  <file src="img/heads/Skinid279.jpg"/>
+  <file src="img/heads/Skinid28.jpg"/>
+  <file src="img/heads/Skinid280.jpg"/>
+  <file src="img/heads/Skinid281.jpg"/>
+  <file src="img/heads/Skinid282.jpg"/>
+  <file src="img/heads/Skinid283.jpg"/>
+  <file src="img/heads/Skinid284.jpg"/>
+  <file src="img/heads/Skinid285.jpg"/>
+  <file src="img/heads/Skinid286.jpg"/>
+  <file src="img/heads/Skinid287.jpg"/>
+  <file src="img/heads/Skinid288.jpg"/>
+  <file src="img/heads/Skinid29.jpg"/>
+  <file src="img/heads/Skinid30.jpg"/>
+  <file src="img/heads/Skinid309.jpg"/>
+  <file src="img/heads/Skinid31.jpg"/>
+  <file src="img/heads/Skinid310.jpg"/>
+  <file src="img/heads/Skinid311.jpg"/>
+  <file src="img/heads/Skinid32.jpg"/>
+  <file src="img/heads/Skinid33.jpg"/>
+  <file src="img/heads/Skinid34.jpg"/>
+  <file src="img/heads/Skinid35.jpg"/>
+  <file src="img/heads/Skinid36.jpg"/>
+  <file src="img/heads/Skinid37.jpg"/>
+  <file src="img/heads/Skinid38.jpg"/>
+  <file src="img/heads/Skinid39.jpg"/>
+  <file src="img/heads/Skinid40.jpg"/>
+  <file src="img/heads/Skinid41.jpg"/>
+  <file src="img/heads/Skinid43.jpg"/>
+  <file src="img/heads/Skinid44.jpg"/>
+  <file src="img/heads/Skinid45.jpg"/>
+  <file src="img/heads/Skinid46.jpg"/>
+  <file src="img/heads/Skinid47.jpg"/>
+  <file src="img/heads/Skinid48.jpg"/>
+  <file src="img/heads/Skinid49.jpg"/>
+  <file src="img/heads/Skinid50.jpg"/>
+  <file src="img/heads/Skinid51.jpg"/>
+  <file src="img/heads/Skinid52.jpg"/>
+  <file src="img/heads/Skinid53.jpg"/>
+  <file src="img/heads/Skinid54.jpg"/>
+  <file src="img/heads/Skinid55.jpg"/>
+  <file src="img/heads/Skinid56.jpg"/>
+  <file src="img/heads/Skinid57.jpg"/>
+  <file src="img/heads/Skinid58.jpg"/>
+  <file src="img/heads/Skinid59.jpg"/>
+  <file src="img/heads/Skinid60.jpg"/>
+  <file src="img/heads/Skinid61.jpg"/>
+  <file src="img/heads/Skinid62.jpg"/>
+  <file src="img/heads/Skinid63.jpg"/>
+  <file src="img/heads/Skinid64.jpg"/>
+  <file src="img/heads/Skinid66.jpg"/>
+  <file src="img/heads/Skinid67.jpg"/>
+  <file src="img/heads/Skinid68.jpg"/>
+  <file src="img/heads/Skinid69.jpg"/>
+  <file src="img/heads/Skinid7.jpg"/>
+  <file src="img/heads/Skinid70.jpg"/>
+  <file src="img/heads/Skinid71.jpg"/>
+  <file src="img/heads/Skinid72.jpg"/>
+  <file src="img/heads/Skinid73.jpg"/>
+  <file src="img/heads/Skinid75.jpg"/>
+  <file src="img/heads/Skinid76.jpg"/>
+  <file src="img/heads/Skinid77.jpg"/>
+  <file src="img/heads/Skinid78.jpg"/>
+  <file src="img/heads/Skinid79.jpg"/>
+  <file src="img/heads/Skinid80.jpg"/>
+  <file src="img/heads/Skinid81.jpg"/>
+  <file src="img/heads/Skinid82.jpg"/>
+  <file src="img/heads/Skinid83.jpg"/>
+  <file src="img/heads/Skinid84.jpg"/>
+  <file src="img/heads/Skinid85.jpg"/>
+  <file src="img/heads/Skinid87.jpg"/>
+  <file src="img/heads/Skinid88.jpg"/>
+  <file src="img/heads/Skinid89.jpg"/>
+  <file src="img/heads/Skinid9.jpg"/>
+  <file src="img/heads/Skinid90.jpg"/>
+  <file src="img/heads/Skinid91.jpg"/>
+  <file src="img/heads/Skinid92.jpg"/>
+  <file src="img/heads/Skinid93.jpg"/>
+  <file src="img/heads/Skinid94.jpg"/>
+  <file src="img/heads/Skinid95.jpg"/>
+  <file src="img/heads/Skinid96.jpg"/>
+  <file src="img/heads/Skinid97.jpg"/>
+  <file src="img/heads/Skinid98.jpg"/>
+  <file src="img/heads/Skinid99.jpg"/>
+  <file src="img/heads/unknown.png"/>
+
+  <file src="img/speedo/car.png"/>
+  <file src="img/speedo/motor.png"/>
+  <file src="img/speedo/bike.png"/>
+  <file src="img/speedo/plane.png"/>
+  <file src="img/speedo/aircraft.png"/>
+  <file src="img/speedo/boat.png"/>
+  <file src="img/speedo/train.png"/>
+  <file src="img/speedo/trailer.png"/>
+  <file src="img/speedo/quad.png"/>
+  <file src="img/speedo/speedometer.png"/>
+  <file src="img/speedo/health.png"/>
+  <file src="img/speedo/mileage.png"/>
+  <file src="img/speedo/fuel.png"/>
+  <file src="img/speedo/engine.png"/>
+  <file src="img/speedo/alert.png"/>
+  <file src="img/speedo/tire.png"/>
+  <file src="img/speedo/low_fuel.png"/>
+  
+  <file src="img/hud/heart.png"/>
+
+  <file src="music/authsys/morning.mp3"/>
+  <file src="music/authsys/noon.mp3"/>
+  <file src="music/authsys/midnight.mp3"/>
+  
+  <script src="config.lua" type="shared" cache="false"/>
+  <script src="core/shared.lua" type="shared" cache="false"/>
+  <script src="core/client.lua" type="client" cache="false"/>
+  <script src="core/server.lua"/>
+
+  <!-- database -->
+  <script src="core/database/server.lua" type="server"/>
+
+  <!-- ui -->
+  <script src="core/ui/client.lua" type="client" cache="false"/>
+  <script src="core/ui/scoreboard/client.lua" type="client" cache="false"/>
+  <script src="core/ui/speedometer/client.lua" type="client" cache="false"/>
+  <script src="core/ui/hud/client.lua" type="client" cache="false"/>
+  <script src="core/ui/infopanel/client.lua" type="client" cache="false"/>
+
+  <!-- textdraws -->
+  <script src="core/textdraws/client.lua" type="client" cache="false"/>
+
+  <!-- spawnpoints -->
+  <script src="core/spawnpoints/client.lua" type="client" cache="false"/>
+  <script src="core/spawnpoints/server.lua" type="server"/>
+
+  <!-- authorization -->
+  <script src="core/authorization/client.lua" type="client" cache="false"/>
+  <script src="core/authorization/server.lua" type="server"/>
+  
+  <!-- fuelstations -->
+  <script src="core/fuelstations/client.lua" type="client" cache="false"/>
+  <script src="core/fuelstations/server.lua" type="server"/>
+
+  <!-- vehicles -->
+  <script src="core/vehicles/public/server.lua" type="server"/>
+  <script src="core/vehicles/public/client.lua" type="client" cache="false"/>
+
+  <oop>true</oop>
+</meta>

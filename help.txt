@@ -1,0 +1,12 @@
+
+gm_sync_c_spawnpoints
+
+gm_ - is always
+
+sync_ - parts what determine action
+transport_
+
+c_ - part what describe side of script
+s_
+
+last is name container
