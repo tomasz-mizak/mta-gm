@@ -1,3 +1,3 @@
-# freeroam
+# mta-gm
 
-Virtual Haven Services Freeroam gamemode."# rpg" 
+simple rpg gamemode
